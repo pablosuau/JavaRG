@@ -1,2 +1,1 @@
-# JavaRG
-Simple computational geometry library written in Java
+# JavaRGSimple computational geometry library written in Java.This is my Master Thesis' source code. This code was written in 2002 as part of my Computer Science degree. The goal was to implement a small subset of the CGAL computational geometry library. All documentation and code is in Spanish.[Dissertation (PDF)](JavaRG.pdf)
